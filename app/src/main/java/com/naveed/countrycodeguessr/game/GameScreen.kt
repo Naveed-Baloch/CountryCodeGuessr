@@ -28,7 +28,7 @@ import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import com.naveed.countrycodeguessr.game.components.GameScreenEvent
 import com.naveed.countrycodeguessr.game.components.GameState
-import com.naveed.countrycodeguessr.model.Country
+import com.naveed.countrydatahelper.Country
 import com.naveed.countrycodeguessr.ui.theme.Green
 
 

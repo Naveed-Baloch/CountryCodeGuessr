@@ -1,6 +1,6 @@
 package com.naveed.countrycodeguessr.game.components
 
-import com.naveed.countrycodeguessr.model.Country
+import com.naveed.countrydatahelper.Country
 
 data class GameState(
     val selectedAnswer: String = "",
